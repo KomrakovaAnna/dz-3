@@ -1,0 +1,29 @@
+{
+  "Type": "Student",
+  "Student": {
+    "FirstName": "Anna",
+    "MiddleName": null,
+    "LastName": "Komrakova",
+    "age":34,
+    "image": "img.jpg",
+    "ContactNumbers": [
+      {
+        "1": "093 1111111"
+      },
+      {
+        "2": "099 1111111"
+      }
+    ],
+    "Active": true,
+    "Courses": [
+      "QA Manual",
+      "AQA",
+      "FrontEnd"
+    ],
+    "Certificate": {
+      "Number": "1234567890",
+      "Date": "01.01.2001",
+      "name": "QA Manual"
+    }
+  }
+}
