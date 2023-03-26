@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Type>Student</Type>
+  <Student>
+    <FirstName>Anna</FirstName>
+    <MiddleName/>
+    <LastName>Komrakova</LastName>
+    <age>34</age>
+    <image>img.jpg</image>
+    <ContactNumbers>
+      <1>093 1111111</1>
+    </ContactNumbers>
+    <ContactNumbers>
+      <2>099 1111111</2>
+    </ContactNumbers>
+    <Active>true</Active>
+    <Courses>QA Manual</Courses>
+    <Courses>AQA</Courses>
+    <Courses>FrontEnd</Courses>
+    <Certificate>
+      <Number>1234567890</Number>
+      <Date>01.01.2001</Date>
+      <name>QA Manual</name>
+    </Certificate>
+  </Student>
+</root>
